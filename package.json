@@ -41,12 +41,12 @@
     "deerawan.vscode-faker",
     "Gruntfuggly.todo-tree",
     "ms-python.pylint",
-    "ms-python.isort"
-    "ms-toolsai.vscode-jupyter-cell-tags"
-    "ms-toolsai.vscode-jupyter-slideshow"
-    "tonybaloney.vscode-pets"
-    "johnpapa.vscode-peacock"
-    "shd101wyy.markdown-preview-enhanced"
+    "ms-python.isort",
+    "ms-toolsai.vscode-jupyter-cell-tags",
+    "ms-toolsai.vscode-jupyter-slideshow",
+    "tonybaloney.vscode-pets",
+    "johnpapa.vscode-peacock",
+    "shd101wyy.markdown-preview-enhanced",
     "bierner.markdown-emoji"
   ]
 }
