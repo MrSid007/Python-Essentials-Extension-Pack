@@ -1,0 +1,46 @@
+{
+  "name": "python-essentials-extension-pack",
+  "displayName": "Python Essentials Extension Pack ",
+  "description": "This Extension Pack includes all the extensions that are required to start your Python Development Journey",
+  "version": "1.0.4",
+  "publisher": "MrSid007",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MrSid007/Python-Essentials-Extension-Pack.git"
+  },
+  "extensionPack": [
+    "aaron-bond.better-comments", 
+    "adpyke.codesnap",
+    "vsls-contrib.gistfs",
+    "eamodio.gitlens",
+    "GitHub.vscode-pull-request-github",
+    "ms-toolsai.jupyter",
+    "ms-toolsai.jupyter-keymap",
+    "ms-toolsai.jupyter-renderers",
+    "ritwickdey.LiveServer",
+    "MeshIntelligentTechnologiesInc.pieces-vscode",
+    "nobuhito.printcode",
+    "ms-python.vscode-pylance",
+    "ms-python.python",
+    "donjayamanne.python-environment-manager",
+    "LittleFoxTeam.vscode-python-test-adapter",
+    "ms-vscode.remote-repositories",
+    "Tyriar.sort-lines",
+    "kohlbachjan.the-best-theme",
+    "shardulm94.trailing-spaces",
+    "bajdzis.vscode-database",
+    "vscode-icons-team.vscode-icons",
+    "tomoki1207.pdf",
+    "deerawan.vscode-faker",
+    "Gruntfuggly.todo-tree",
+    "ms-python.pylint",
+    "ms-python.isort"
+  ]
+}
