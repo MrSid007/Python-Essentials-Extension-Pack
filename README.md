@@ -17,6 +17,10 @@
 
 [Jupyter Keymap](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap)
 
+[Jupyter Cell Tags](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags)
+
+[Jupyter Slide Show](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-slideshow)
+
 [Jupyter Notebook Renderers](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers)
 
 # Github Extensions
@@ -47,6 +51,16 @@
 [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 
 [TODO Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+
+# Markdown Extensions 
+[Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+
+[Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+
+# Funny _little_ Extensions 
+[vscode-pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
+
+[Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 
 # Small Utility Extensions
 [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
