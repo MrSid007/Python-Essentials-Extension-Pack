@@ -28,3 +28,14 @@ Initial Release
 - isort Extension  
 ## Changed 
 - package.json, README.md and CHANGELOG.md
+
+## [1.0.5] - 7-12-2022
+## Added 
+- Jupyter Cell Tags Extension  
+- Jupyter Slide Show Extension
+- vscode-pets Extension 
+- Peacock Extension
+- Markdown Previw Enhanced Extension
+- Markdown Emoji Extension
+## Changed 
+- package.json, README.md and CHANGELOG.md
