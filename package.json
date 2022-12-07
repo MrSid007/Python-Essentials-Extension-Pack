@@ -2,7 +2,7 @@
   "name": "python-essentials-extension-pack",
   "displayName": "Python Essentials Extension Pack ",
   "description": "This Extension Pack includes all the extensions that are required to start your Python Development Journey",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "publisher": "MrSid007",
   "engines": {
     "vscode": "^1.71.0"
@@ -42,5 +42,11 @@
     "Gruntfuggly.todo-tree",
     "ms-python.pylint",
     "ms-python.isort"
+    "ms-toolsai.vscode-jupyter-cell-tags"
+    "ms-toolsai.vscode-jupyter-slideshow"
+    "tonybaloney.vscode-pets"
+    "johnpapa.vscode-peacock"
+    "shd101wyy.markdown-preview-enhanced"
+    "bierner.markdown-emoji"
   ]
 }
