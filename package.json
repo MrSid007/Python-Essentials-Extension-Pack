@@ -2,8 +2,8 @@
   "name": "python-essentials-extension-pack",
   "displayName": "Python Essentials Extension Pack ",
   "description": "This Extension Pack includes all the extensions that are required to start your Python Development Journey",
-  "version": "1.0.5",
-  "publisher": "MrSid007",
+  "version": "1.0.6",
+  "publisher": "MrSid",
   "engines": {
     "vscode": "^1.71.0"
   },
@@ -47,6 +47,11 @@
     "tonybaloney.vscode-pets",
     "johnpapa.vscode-peacock",
     "shd101wyy.markdown-preview-enhanced",
-    "bierner.markdown-emoji"
+    "bierner.markdown-emoji",
+    "almenon.arepl",
+    "cstrap.python-snippets",
+    "MS-vsliveshare.vsliveshare",
+    "lostintangent.vsls-whiteboard",
+    "vsls-contrib.codetour"
   ]
 }
