@@ -57,14 +57,26 @@
 
 [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
 
+# Real-time Viewing & Sharing Extensions 
+[AREPL For Python](https://marketplace.visualstudio.com/items?itemName=almenon.arepl)
+
+[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+[Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+
+[Live Share Whiteboard](https://marketplace.visualstudio.com/items?itemName=lostintangent.vsls-whiteboard)
+ 
 # Funny _little_ Extensions 
 [vscode-pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
 
 [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 
-# Small Utility Extensions
-[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+# Make Life Easy Extensions
+[Code Tour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour)
 
+[python-snippets](https://marketplace.visualstudio.com/items?itemName=cstrap.python-snippets)
+
+# Small Utility Extensions
 [vscode-database](https://marketplace.visualstudio.com/items?itemName=bajdzis.vscode-database)
 
 [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
