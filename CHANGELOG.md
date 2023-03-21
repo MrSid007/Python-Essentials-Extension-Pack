@@ -39,3 +39,13 @@ Initial Release
 - Markdown Emoji Extension
 ## Changed 
 - package.json, README.md and CHANGELOG.md
+
+## [1.0.6] - 21-03-2023
+## Added 
+- AREPL For Python
+- Live Share 
+- Live Share Whiteboard
+- Code Tour
+- python-snippets
+## Changed 
+- package.json, README.md and CHANGELOG.md
