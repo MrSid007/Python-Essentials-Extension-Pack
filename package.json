@@ -3,7 +3,7 @@
   "displayName": "Python Essentials Extension Pack ",
   "description": "This Extension Pack includes all the extensions that are required to start your Python Development Journey",
   "version": "1.0.6",
-  "publisher": "MrSid",
+  "publisher": "MrSid007",
   "engines": {
     "vscode": "^1.71.0"
   },
