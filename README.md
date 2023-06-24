@@ -40,7 +40,7 @@
 # Printing & Screenshot Extensions
 [Code Snap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
 
-[PrintCode](https://marketplace.visualstudio.com/items?itemName=nobuhito.printcode)
+[Print](https://marketplace.visualstudio.com/items?itemName=pdconsec.vscode-print)
 
 # Theming & Icon Pack Extensions
 [The Best Theme](https://marketplace.visualstudio.com/items?itemName=kohlbachjan.the-best-theme)
