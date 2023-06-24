@@ -2,7 +2,7 @@
   "name": "python-essentials-extension-pack",
   "displayName": "Python Essentials Extension Pack ",
   "description": "This Extension Pack includes all the extensions that are required to start your Python Development Journey",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "publisher": "MrSid007",
   "engines": {
     "vscode": "^1.71.0"
@@ -52,6 +52,14 @@
     "cstrap.python-snippets",
     "MS-vsliveshare.vsliveshare",
     "lostintangent.vsls-whiteboard",
-    "vsls-contrib.codetour"
+    "vsls-contrib.codetour",
+    "ecmel.vscode-html-css",
+    "batisteo.vscode-django",
+    "thebarkman.vscode-djaneiro",
+    "cstrap.flask-snippets",
+    "damildrizzy.fastapi-snippets",
+    "SBSnippets.pytorch-snippets",
+    "vahidk.tensorflow-snippets",
+    "mechatroner.rainbow-csv"
   ]
 }
