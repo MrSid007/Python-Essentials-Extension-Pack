@@ -49,3 +49,16 @@ Initial Release
 - python-snippets
 ## Changed 
 - package.json, README.md and CHANGELOG.md
+
+## [1.0.7] - 24-06-2023
+## Added 
+- HTML CSS Support
+- Django
+- Djaneiro - Django Snippets
+- flask-snippets
+- fastapi-snippets
+- PyTorch Snippets
+- TensorFlow Snippets
+- Rainbow CSV
+## Changed 
+- package.json, README.md and CHANGELOG.md
