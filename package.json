@@ -2,7 +2,7 @@
   "name": "python-essentials-extension-pack",
   "displayName": "Python Essentials Extension Pack ",
   "description": "This Extension Pack includes all the extensions that are required to start your Python Development Journey",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "publisher": "MrSid007",
   "engines": {
     "vscode": "^1.71.0"
@@ -26,7 +26,7 @@
     "ms-toolsai.jupyter-renderers",
     "ritwickdey.LiveServer",
     "MeshIntelligentTechnologiesInc.pieces-vscode",
-    "nobuhito.printcode",
+    "pdconsec.vscode-print",
     "ms-python.vscode-pylance",
     "ms-python.python",
     "donjayamanne.python-environment-manager",
