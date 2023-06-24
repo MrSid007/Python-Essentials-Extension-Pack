@@ -71,11 +71,24 @@
 
 [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 
-# Make Life Easy Extensions
-[Code Tour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour)
-
+# Helping Hand Extensions
 [python-snippets](https://marketplace.visualstudio.com/items?itemName=cstrap.python-snippets)
 
+[Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+
+[HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+
+[Django](https://marketplace.visualstudio.com/items?itemName=batisteo.vscode-django)
+
+[Djaneiro - Django Snippets](https://marketplace.visualstudio.com/items?itemName=thebarkman.vscode-djaneiro)
+
+[flask-snippets](https://marketplace.visualstudio.com/items?itemName=cstrap.flask-snippets)
+
+[fastapi-snippets](https://marketplace.visualstudio.com/items?itemName=damildrizzy.fastapi-snippets)
+
+[PyTorch Snippets](https://marketplace.visualstudio.com/items?itemName=SBSnippets.pytorch-snippets)
+
+[TensorFlow Snippets](https://marketplace.visualstudio.com/items?itemName=vahidk.tensorflow-snippets)
 # Small Utility Extensions
 [vscode-database](https://marketplace.visualstudio.com/items?itemName=bajdzis.vscode-database)
 
@@ -85,9 +98,11 @@
 
 [vscode-faker](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-faker)
 
-[Pieces for VS Code](https://marketplace.visualstudio.com/items?itemName=MeshIntelligentTechnologiesInc.pieces-vscode)
-
 [Sort Lines](https://marketplace.visualstudio.com/items?itemName=Tyriar.sort-lines)
+
+[Code Tour](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour)
+
+[Pieces for VS Code](https://marketplace.visualstudio.com/items?itemName=MeshIntelligentTechnologiesInc.pieces-vscode)
 
 # Credits 
 
