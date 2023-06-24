@@ -62,3 +62,9 @@ Initial Release
 - Rainbow CSV
 ## Changed 
 - package.json, README.md and CHANGELOG.md
+
+## [1.0.8] - 24-06-2023
+## Removed
+- PrintCode
+## Added
+- Print
